@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "ancient-thunder-df0f",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "794c1477-2753-4af0-96d2-1a593e931eb4",
+      "database_name": "black-scene-b13b-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
